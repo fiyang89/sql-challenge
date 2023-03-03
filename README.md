@@ -5,7 +5,8 @@ It's been two weeks since you were hired as a new data engineer at Pewlett Hacka
 For this project, you'll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you'll perform data modeling, data engineering, and data analysis, respectively.
 
 ## Data Modeling
-(Entity Relationship Diagram)
+![ERD](https://user-images.githubusercontent.com/120594187/222632502-be5bab6a-e556-4ea5-a2b5-5203dbba358e.png)
+
 
 ## Data Engineering
 
